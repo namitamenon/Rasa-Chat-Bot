@@ -5,7 +5,7 @@ An Indian startup named 'Foodie' wants to build a conversational bot (chatbot) w
 
 The main purpose of the bot is to help users discover restaurants quickly and efficiently and to provide a good restaurant discovery experience. The project brief provided to you is as follows. 
 
--The bot takes the following inputs from the user:
+- The bot takes the following inputs from the user:
 
  - City: Take the input from the customer as a text field. For example:
  - Bot: In which city are you looking for restaurants?
@@ -22,7 +22,7 @@ The main purpose of the bot is to help users discover restaurants quickly and ef
   North Indian
   User: I’ll prefer Italian! 
 
--Average budget for two people: Segment the price range (average budget for two people) into three price categories: lesser than 300, 300 to 700 and more than 700. The bot should ask the user to select one of the three price categories. 
+- Average budget for two people: Segment the price range (average budget for two people) into three price categories: lesser than 300, 300 to 700 and more than 700. The bot should ask the user to select one of the three price categories. 
 For example:
  - Bot: What price range are you looking at?
     Lesser than Rs. 300
@@ -34,24 +34,9 @@ For example:
 
 Finally, the bot should ask the user whether he/she wants the details of the top 10 restaurants on email. If the user replies 'yes', the bot should ask for user’s email id and then send it over email. Else, just reply with a 'goodbye' message. The mail should have the following details for each restaurant:
 
--Restaurant Name
--Restaurant locality address
--Average budget for two people
--Zomato user rating
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
- 
+- Restaurant Name
+- Restaurant locality address
+- Average budget for two people
+- Zomato user rating
 
  
